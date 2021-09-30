@@ -3,7 +3,7 @@
 export const INFURA_ADDRESS = "https://moonriver.api.onfinality.io/public"
 
 
-export const ADDRESS = "0x07B867e75D132e655DeDa6Ed797114607871Eb0b"
+export const ADDRESS = "0xBA958A18C5087d27b9aD4ACd3156bb7B169B3aEF"
 
 export const ABI = [
 	{
