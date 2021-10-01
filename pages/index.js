@@ -132,7 +132,7 @@ export default function Mint() {
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
         <title>MovrRole</title>
-        <link rel="icon" href="/images/favicon.jpg" />
+        <link rel="icon" href="/images/Hola.gif" />
 
         <meta property="og:title" content="MovrRole" key="ogtitle" />
         <meta property="og:description" content="MovrRole" key="ogdesc" />
